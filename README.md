@@ -1,0 +1,1 @@
+This is FredMDUX first git project!
